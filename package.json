@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-bmap-geolocation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cordova Geolocation Plugin,use Baidu Map SDK",
   "cordova": {
     "id": "cordova-plugin-bmap-geolocation",
@@ -26,8 +26,12 @@
   "license": "Apache-2.0",
   "engines": {
     "cordovaDependencies": {
-      "2.0.0": { "cordova-android": ">=4.0.0" },
-      "3.0.0": { "cordova-android": ">=4.0.0" }
+      "2.0.0": {
+        "cordova-android": ">=4.0.0"
+      },
+      "3.0.0": {
+        "cordova-android": ">=4.0.0"
+      }
     }
   }
 }
