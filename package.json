@@ -22,7 +22,7 @@
     "cordova-android",
     "cordova-ios"
   ],
-  "author": "",
+  "author": "jack",
   "license": "Apache-2.0",
   "engines": {
     "cordovaDependencies": {

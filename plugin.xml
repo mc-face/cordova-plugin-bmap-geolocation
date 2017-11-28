@@ -83,6 +83,7 @@
         </config-file>
 
         <source-file src="android/src/BmapGeolocation.java" target-dir="src/com/linkcld/cordova/bmap"/>
+        <source-file src="android/src/MyLocationListener.java" target-dir="src/com/linkcld/cordova/bmap"/>
         <source-file src="android/src/PermissionHelper.java" target-dir="src/com/linkcld/cordova"/>
         <source-file src="android/libs/armeabi/liblocSDK7a.so" target-dir="libs/armeabi"/>
         <source-file src="android/libs/armeabi-v7a/liblocSDK7a.so" target-dir="libs/armeabi-v7a"/>
