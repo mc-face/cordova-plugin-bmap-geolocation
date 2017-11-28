@@ -24,14 +24,10 @@
   ],
   "author": "jack",
   "license": "Apache-2.0",
-  "engines": {
-    "cordovaDependencies": {
-      "2.0.0": {
-        "cordova-android": ">=4.0.0"
-      },
-      "3.0.0": {
-        "cordova-android": ">=4.0.0"
-      }
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=5.0.0"
     }
-  }
+  ]
 }
